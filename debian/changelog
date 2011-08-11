@@ -1,3 +1,12 @@
+plymouth-theme-tuquito (0.1-6) natty; urgency=low
+
+  * Pampa branch
+  * spin theme removed
+  * text and logo added
+  * package renamed
+
+ -- Mario Colque <mario@tuquito.org.ar>  Thu, 11 Aug 2011 02:22:14 -0300
+
 plymouth-theme-tuquito-spin (0.1-5) maverick; urgency=low
 
   * renamed to maverick
