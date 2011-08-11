@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=Spinfinity Tuquito
+Description=Spinfinity Tuquito
+ModuleName=script
+
+[script]
+ImageDir=/lib/plymouth/themes/spinfinity-tuquito
+ScriptFile=/lib/plymouth/themes/spinfinity-tuquito/spinfinity-tuquito.script
+
