@@ -1,3 +1,9 @@
+plymouth-theme-tuquito (0.1-7) precise; urgency=low
+
+  * Guarani branch
+
+ -- Mario Colque <mario@tuquito.org.ar>  Tue, 22 May 2012 14:57:19 -0300
+
 plymouth-theme-tuquito (0.1-6) natty; urgency=low
 
   * Pampa branch
