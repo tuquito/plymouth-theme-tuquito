@@ -4,8 +4,8 @@ Description=Text mode theme based on kubuntu-logo theme
 ModuleName=ubuntu-text
 
 [ubuntu-text]
-title=Tuquito 5
-black=0x0078C2
+title=Tuquito
+black=0x000000
 white=0xffffff
 brown=0x009DFD
 blue=0x00182C
